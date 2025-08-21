@@ -36,14 +36,14 @@ const Info = () => (
 
           <div className="max-w-screen-lg w-full grid sm:grid-cols-2 gap-4 mx-auto px-4 text-white">
             <div className="flex justify-center items-center">
-              <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3101.3345781763664!2d-1.8650492879264868!3d38.98485974141973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd665f7a9cfab79b%3A0x12f825a9fcbf3bb0!2sRestaurante%20Taperia%20Ed%C3%A9n!5e0!3m2!1ses!2ses!4v1755770129241!5m2!1ses!2ses" 
-              width="100%"
-              height="300"
-              allowfullscreen
-              loading="lazy" 
-              referrerpolicy="no-referrer-when-downgrade"
-              title="Ubicación de Restaurante Taperia Edén"
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3101.3345781763664!2d-1.8650492879264868!3d38.98485974141973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd665f7a9cfab79b%3A0x12f825a9fcbf3bb0!2sRestaurante%20Taperia%20Ed%C3%A9n!5e0!3m2!1ses!2ses!4v1755770129241!5m2!1ses!2ses"
+                width="100%"
+                height="300"
+                allowfullscreen
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+                title="Ubicación de Restaurante Taperia Edén"
               ></iframe>
             </div>
             {/* CONTACT INFO */}
@@ -110,18 +110,39 @@ const Info = () => (
               </div>
             </div>
           </div>
-        
+
           <div className="w-full mx-auto mt-10 flex justify-center items-center">
-            <Link to="#" target="_blank">
+            <a
+              href="#"
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={(e) => e.preventDefault()}
+            >
+              <button className="mx-4 w-[50px] h-[50px] inline-flex justify-center items-center rounded-full bg-[#84cc16] hover:bg-white text-white hover:text-[#84cc16]">
+                <span className="w-[30px] h-[30px]"><Instagram /></span>
+              </button>
+            </a>
+
+            <a
+              href="#"
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={(e) => e.preventDefault()}
+            >
+              <button className="mx-4 w-[50px] h-[50px] inline-flex justify-center items-center rounded-full bg-[#84cc16] hover:bg-white text-white hover:text-[#84cc16]">
+                <span className="w-[30px] h-[30px]"><Facebook /></span>
+              </button>
+            </a>
+            {/* <Link to="https://www.instagram.com/elSitio/" target="_blank">
               <button className="mx-4 w-[50px] h-[50px] inline-flex justify-center items-center rounded-full bg-[#84cc16] hover:bg-white text-white hover:text-[#84cc16]">
                 <span className="w-[30px] h-[30px]"><Instagram /></span>
               </button>
             </Link>
-            <Link to="#" target="_blank">
+            <Link to="https://www.facebook.com/elSitio" target="_blank">
               <button className="mx-4 w-[50px] h-[50px] inline-flex justify-center items-center rounded-full bg-[#84cc16] hover:bg-white text-white hover:text-[#84cc16]">
               <span className="w-[30px] h-[30px]"><Facebook /></span>
               </button>
-            </Link>
+            </Link> */}
           </div>
         </motion.div>
 

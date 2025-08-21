@@ -32,16 +32,31 @@ const Footer = () => (
       </div>
 
       <div className="flex justify-center items-center">
-        <Link to="#" target="_blank">
+        <a
+          href="#"
+          onClick={(e) => e.preventDefault()}
+          className="h-[30px] flex items-center mr-1 md:mr-2 text-white hover:text-[#84cc16]"
+        >
+          <span className="w-[20px] h-[20px]"><Instagram /></span>
+        </a>
+
+        <a
+          href="#"
+          onClick={(e) => e.preventDefault()}
+          className="h-[30px] flex items-center ml-1 md:ml-2 text-white hover:text-[#84cc16]"
+        >
+          <span className="w-[19px] h-[19px]"><Facebook /></span>
+        </a>
+        {/* <Link to="https://www.instagram.com/elSitio/" target="_blank">
           <button className="h-[30px] flex items-center mr-1 md:mr-2 text-white hover:text-[#84cc16]">
             <span className="w-[20px] h-[20px]"><Instagram /></span>
           </button>
         </Link>
-        <Link to="#" target="_blank">
+        <Link to="https://www.facebook.com/elSitio" target="_blank">
           <button className="h-[30px] flex items-center ml-1 md:ml-2 text-white hover:text-[#84cc16]">
             <span className="w-[19px] h-[19px]"><Facebook /></span>
           </button>
-        </Link>
+        </Link> */}
       </div>
     </motion.div>
   </footer>
