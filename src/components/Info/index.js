@@ -72,12 +72,7 @@ const Info = () => (
                 <p className="font-medium uppercase">Horario :</p>
               </div>
               <div></div>
-              <div className="flex justify-end items-center pr-4">
-                <p className="font-medium uppercase">Dom</p>
-              </div>
-              <div className="flex items-center">
-                <p>12:00 a 19:00 pm</p>
-              </div>
+              
               <div className="flex justify-end items-center pr-4">
                 <p className="font-medium uppercase">Lun</p>
               </div>
@@ -85,28 +80,22 @@ const Info = () => (
                 <p>CERRADO</p>
               </div>
               <div className="flex justify-end items-center pr-4">
-                <p className="font-medium uppercase">Mar & Jue</p>
+                <p className="font-medium uppercase">Mar & Vie</p>
               </div>
               <div className="flex items-center">
-                <p>12:00 a 22:00 h</p>
-              </div>
-              <div className="flex justify-end items-center pr-4">
-                <p className="font-medium uppercase">Mié</p>
-              </div>
-              <div className="flex items-center">
-                <p>12:00 a 22:00 h</p>
-              </div>
-              <div className="flex justify-end items-center pr-4">
-                <p className="font-medium uppercase">Vie</p>
-              </div>
-              <div className="flex items-center">
-                <p>12:00 a 22:00 h</p>
+                <p>7:00 a 1:00 h</p>
               </div>
               <div className="flex justify-end items-center pr-4">
                 <p className="font-medium uppercase">Sáb</p>
               </div>
               <div className="flex items-center">
-                <p>12:00 a 22:00 h</p>
+                <p>8:00 a 1:30 h</p>
+              </div>
+              <div className="flex justify-end items-center pr-4">
+                <p className="font-medium uppercase">Dom</p>
+              </div>
+              <div className="flex items-center">
+                <p>8:00 a 1:00 h</p>
               </div>
             </div>
           </div>
