@@ -22,7 +22,7 @@ const Header = () => {
       >
         <div className="logo">
           <Link to="/" className="text-3xl font-semibold uppercase transition-all ease-in duration-500 hover:text-[#84cc16]">
-            H<span className="text-[#84cc16]">e</span>dén
+            E<span className="text-[#84cc16]">d</span>én
           </Link>
         </div>
 

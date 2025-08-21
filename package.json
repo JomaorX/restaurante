@@ -1,7 +1,7 @@
 {
-  "name": "heden-restaurant",
+  "name": "eden-restaurant",
   "private": true,
-  "description": "Hedén Official Website",
+  "description": "Edén Official Website",
   "version": "0.1.0",
   "author": "demivlkv",
   "dependencies": {

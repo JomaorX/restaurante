@@ -26,8 +26,8 @@ const Footer = () => (
 
       <div className="text-xs md:text-base font-normal tracking-wider">
         <p>
-          © {new Date().getFullYear()} &middot; H
-          <span className="text-[#84cc16]">e</span>dén. All rights reserved.
+          © {new Date().getFullYear()} &middot; E
+          <span className="text-[#84cc16]">d</span>én. All rights reserved.
         </p>
       </div>
 

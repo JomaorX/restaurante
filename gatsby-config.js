@@ -4,8 +4,8 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `Hedén`,
-    description: `Hedén Official Website | Circunvalacion, 115`,
+    title: `Edén`,
+    description: `Edén Official Website | Circunvalacion, 115`,
     author: `jomaorx`,
     siteUrl: `https://heden.onrender.com/`,
   },

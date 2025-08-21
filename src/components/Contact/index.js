@@ -57,7 +57,7 @@ const Contact = () => {
             transition={{ duration: 1, delay: 0.75 }}
             viewport={{ once: true }}
           >
-            <p className="mb-4 text-center">¡Nos encantaría saber de ti!</p>
+            <p className="mb-4 text-center">¡Nos encantaría saber tu opinión!</p>
 
             {/* CONTACT FORM */}
             <form id="contact-form" className="flex justify-center w-full">

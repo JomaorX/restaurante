@@ -14,7 +14,7 @@ import Footer from '../Footer';
 const Layout = ({ pageTitle, children }) => {
   return (
     <>
-      <title>Hedén | {pageTitle}</title>
+      <title>Edén | {pageTitle}</title>
       <Header />
       <Hero />
         <motion.main
