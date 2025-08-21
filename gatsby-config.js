@@ -4,8 +4,8 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `Tokio Ramen`,
-    description: `Tokio Ramen Official Website | Boynton Beach, FL`,
+    title: `Hedén`,
+    description: `Hedén Ramen Official Website | Boynton Beach, FL`,
     author: `demivlkv`,
     siteUrl: `https://tokio-ramen.netlify.app/`,
   },
@@ -33,7 +33,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/tokio-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/logoEdenMini.png`, // This path is relative to the root of the site.
       },
     },
     {

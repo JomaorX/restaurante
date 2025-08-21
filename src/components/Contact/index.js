@@ -48,7 +48,7 @@ const Contact = () => {
             transition={{ duration: 1, delay: 0.5 }}
             viewport={{ once: true }}
           >
-            Contact
+            Contacto
           </motion.h2>
           <motion.div
             className="max-w-screen-lg w-full flex flex-col justify-center"
@@ -57,16 +57,16 @@ const Contact = () => {
             transition={{ duration: 1, delay: 0.75 }}
             viewport={{ once: true }}
           >
-            <p className="mb-4 text-center">We'd love to hear from you!</p>
+            <p className="mb-4 text-center">¡Nos encantaría saber de ti!</p>
 
             {/* CONTACT FORM */}
             <form id="contact-form" className="flex justify-center w-full">
               <div class="w-[75%] max-w-xl mx-auto">
                 <label
                   htmlFor="name"
-                  className="block text-[#fe4039] uppercase font-medium"
+                  className="block text-[#84cc16] uppercase font-medium"
                 >
-                  Name:
+                  Nombre:
                 </label>
                 <input
                   type="text"
@@ -78,7 +78,7 @@ const Contact = () => {
 
                 <label
                   htmlFor="email"
-                  className="block text-[#fe4039] uppercase font-medium"
+                  className="block text-[#84cc16] uppercase font-medium"
                 >
                   E-mail:
                 </label>
@@ -92,9 +92,9 @@ const Contact = () => {
 
                 <label
                   htmlFor="message"
-                  className="block text-[#fe4039] uppercase font-medium"
+                  className="block text-[#84cc16] uppercase font-medium"
                 >
-                  Message:
+                  Mensaje:
                 </label>
                 <textarea
                   name="message"
@@ -112,9 +112,9 @@ const Contact = () => {
 
                 <button
                   type="submit"
-                  className="font-medium uppercase tracking-widest group w-[146px] mx-auto flex items-center my-2 pl-8 py-2 border-2 border-[#fe4039] rounded hover:bg-[#fe3f3978]"
+                  className="font-medium uppercase tracking-widest group w-[146px] mx-auto flex items-center my-2 pl-8 py-2 border-2 border-[#84cc16] rounded hover:bg-[#fe3f3978]"
                 >
-                  Submit
+                  Enviar
                   <span className="group-hover:ml-1 duration-300">
                     <ChevronRight />
                   </span>

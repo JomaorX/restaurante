@@ -3,6 +3,8 @@ import { motion } from 'framer-motion';
 
 import MenuItem from './MenuItem';
 
+const getDescription = item => item?.description?.description || "";
+
 const animateSection = {
   hidden: { opacity: 0, y: 100 },
   animate: {
@@ -33,11 +35,11 @@ const MenuSection = ({ name, items, image, imageAlt }) => {
 
       <div className="max-w-screen-lg h-full mx-auto">
         <div className="flex flex-row flex-wrap justify-center items-center">
-          {items.map(item => (
+          {items?.length > 0 && items.map(item => (
             <MenuItem
               key={item.name}
               name={item.name}
-              description={item.description}
+              description={getDescription(item)}
               price={item.price}
               spicy={item.spicy}
               popular={item.popular}

@@ -21,8 +21,8 @@ const Header = () => {
         viewport={{ once: true }}
       >
         <div className="logo">
-          <Link to="/" className="text-3xl font-semibold uppercase transition-all ease-in duration-500 hover:text-[#fe4039]">
-            T<span className="text-[#fe4039]">o</span>kio
+          <Link to="/" className="text-3xl font-semibold uppercase transition-all ease-in duration-500 hover:text-[#84cc16]">
+            H<span className="text-[#84cc16]">e</span>dén
           </Link>
         </div>
 
@@ -30,10 +30,10 @@ const Header = () => {
           <nav>
             {/* NAVBAR AT 768PX & ABOVE */}
             <div className="hidden md:flex">
-              <AnchorLink to="#about" title="Our History" className="mr-2 md:mr-4" />
-              <AnchorLink to="#menu" title="Menu" className="mx-2 md:mx-4" />
+              <AnchorLink to="#about" title="Historia" className="mr-2 md:mr-4" />
+              <AnchorLink to="#menu" title="Carta" className="mx-2 md:mx-4" />
               <AnchorLink to="#info" title="Info" className="mx-2 md:mx-4" />
-              <AnchorLink to="#contact" title="Contact" className="mx-2 md:mx-4" />
+              <AnchorLink to="#contact" title="Contacto" className="mx-2 md:mx-4" />
             </div>
 
             {/* HAMBURGER MENU AT 768PX & LOWER */}
@@ -50,10 +50,10 @@ const Header = () => {
                     : "mobile-menu active"
                 }
               >
-                <AnchorLink to="#about" title="Our History" className="mt-8 mb-4" />
-                <AnchorLink to="#menu" title="Menu" className="my-4" />
+                <AnchorLink to="#about" title="Historia" className="mt-8 mb-4" />
+                <AnchorLink to="#menu" title="Carta" className="my-4" />
                 <AnchorLink to="#info" title="Info" className="my-4" />
-                <AnchorLink to="#contact" title="Contact" className="my-4" />
+                <AnchorLink to="#contact" title="Contacto" className="my-4" />
               </div>
             </div>
           </nav>

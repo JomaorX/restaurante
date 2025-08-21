@@ -22,7 +22,7 @@ const Info = () => (
           transition={{ duration: 1, delay: 0.5 }}
           viewport={{ once: true }}
         >
-          Information
+          Información
         </motion.h2>
         <motion.div
           initial={{ opacity: 0 }}
@@ -31,87 +31,94 @@ const Info = () => (
           viewport={{ once: true }}
         >
           <p className="mb-8 text-white text-center italic">
-            Closed MONDAYS, select holidays and during planned closures.<br />
-            Free covered garage parking available.
+            Cerrado los LUNES, ciertos días festivos y durante cierres programados.<br />
           </p>
 
           <div className="max-w-screen-lg w-full grid sm:grid-cols-2 gap-4 mx-auto px-4 text-white">
             <div className="flex justify-center items-center">
-              <StaticImage src="../../images/info/tokio-map.png" alt="Tokio Ramen Location" className="mr-4 drop-shadow-md" />
+              <iframe 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3101.3345781763664!2d-1.8650492879264868!3d38.98485974141973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd665f7a9cfab79b%3A0x12f825a9fcbf3bb0!2sRestaurante%20Taperia%20Ed%C3%A9n!5e0!3m2!1ses!2ses!4v1755770129241!5m2!1ses!2ses" 
+              width="100%"
+              height="300"
+              allowfullscreen
+              loading="lazy" 
+              referrerpolicy="no-referrer-when-downgrade"
+              title="Ubicación de Restaurante Taperia Edén"
+              ></iframe>
             </div>
             {/* CONTACT INFO */}
             <div className="w-full grid grid-cols-2 gap-2">
               <div className="flex self-start items-center">
-                <span className="w-[20px] h-[20px] text-[#fe4039] mr-3"><MapPin /></span>
-                <p className="font-medium uppercase">Location :</p>
+                <span className="w-[20px] h-[20px] text-[#84cc16] mr-3"><MapPin /></span>
+                <p className="font-medium uppercase">Dirección :</p>
               </div>
               <div>
                 <p>
-                  One Boynton Plaza<br />
-                  307 E Woolbright Rd<br />
-                  Boynton Beach, FL 33435
+                  Paseo Circunvalación, 115<br />
+                  02006 Albacete<br />
+                  España
                 </p>
               </div>
               <div className="flex self-start items-center">
-                <span className="w-[18px] h-[18px] text-[#fe4039] mr-3"><Phone /></span>
-                <p className="font-medium uppercase">Phone :</p>
+                <span className="w-[18px] h-[18px] text-[#84cc16] mr-3"><Phone /></span>
+                <p className="font-medium uppercase">Teléfono :</p>
               </div>
               <div>
-                <p>(561) 509-8131</p>
+                <p>967-741-447</p>
               </div>
               {/* HOURS OF OPERATION */}
               <div className="flex self-start items-center">
-                <span className="w-[20px] h-[20px] text-[#fe4039] mr-3"><Clock /></span>
-                <p className="font-medium uppercase">Hours of Operation :</p>
+                <span className="w-[20px] h-[20px] text-[#84cc16] mr-3"><Clock /></span>
+                <p className="font-medium uppercase">Horario :</p>
               </div>
               <div></div>
               <div className="flex justify-end items-center pr-4">
-                <p className="font-medium uppercase">Sun</p>
+                <p className="font-medium uppercase">Dom</p>
               </div>
               <div className="flex items-center">
-                <p>12 pm to 7 pm</p>
+                <p>12:00 a 19:00 pm</p>
               </div>
               <div className="flex justify-end items-center pr-4">
-                <p className="font-medium uppercase">Mon</p>
+                <p className="font-medium uppercase">Lun</p>
               </div>
               <div className="flex items-center">
-                <p>CLOSED</p>
+                <p>CERRADO</p>
               </div>
               <div className="flex justify-end items-center pr-4">
-                <p className="font-medium uppercase">Tues & Thurs</p>
+                <p className="font-medium uppercase">Mar & Jue</p>
               </div>
               <div className="flex items-center">
-                <p>12 pm to 10 pm</p>
+                <p>12:00 a 22:00 h</p>
               </div>
               <div className="flex justify-end items-center pr-4">
-                <p className="font-medium uppercase">Wed</p>
+                <p className="font-medium uppercase">Mié</p>
               </div>
               <div className="flex items-center">
-                <p>12 pm to 10 pm</p>
+                <p>12:00 a 22:00 h</p>
               </div>
               <div className="flex justify-end items-center pr-4">
-                <p className="font-medium uppercase">Fri</p>
+                <p className="font-medium uppercase">Vie</p>
               </div>
               <div className="flex items-center">
-                <p>12 pm to 10 pm</p>
+                <p>12:00 a 22:00 h</p>
               </div>
               <div className="flex justify-end items-center pr-4">
-                <p className="font-medium uppercase">Sat</p>
+                <p className="font-medium uppercase">Sáb</p>
               </div>
               <div className="flex items-center">
-                <p>12 pm to 10 pm</p>
+                <p>12:00 a 22:00 h</p>
               </div>
             </div>
           </div>
         
           <div className="w-full mx-auto mt-10 flex justify-center items-center">
             <Link to="https://www.instagram.com/tokioramen/" target="_blank">
-              <button className="mx-4 w-[50px] h-[50px] inline-flex justify-center items-center rounded-full bg-[#fe4039] hover:bg-white text-white hover:text-[#fe4039]">
+              <button className="mx-4 w-[50px] h-[50px] inline-flex justify-center items-center rounded-full bg-[#84cc16] hover:bg-white text-white hover:text-[#84cc16]">
                 <span className="w-[30px] h-[30px]"><Instagram /></span>
               </button>
             </Link>
             <Link to="https://www.facebook.com/tokioramenbb" target="_blank">
-              <button className="mx-4 w-[50px] h-[50px] inline-flex justify-center items-center rounded-full bg-[#fe4039] hover:bg-white text-white hover:text-[#fe4039]">
+              <button className="mx-4 w-[50px] h-[50px] inline-flex justify-center items-center rounded-full bg-[#84cc16] hover:bg-white text-white hover:text-[#84cc16]">
               <span className="w-[30px] h-[30px]"><Facebook /></span>
               </button>
             </Link>

@@ -1,0 +1,2431 @@
+{
+  "entries": [
+    {
+      "sys": {
+        "id": "item-ensalada-de-rulo-de-cabra",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Ensalada de Rulo de Cabra"
+        },
+        "description": {
+          "en-US": "Fresca mezcla de hojas verdes con queso de cabra caramelizado."
+        },
+        "price": {
+          "en-US": 10.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": true
+        },
+        "categoryList": {
+          "en-US": [
+            "Ensaladas"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-ensalada-de-pollo",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Ensalada de Pollo"
+        },
+        "description": {
+          "en-US": "Pollo a la plancha con verduras frescas y vinagreta."
+        },
+        "price": {
+          "en-US": 10.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Ensaladas"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-ensalada-de-quinoa",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Ensalada de Quinoa"
+        },
+        "description": {
+          "en-US": "Quinoa con verduras frescas y aliño mediterráneo."
+        },
+        "price": {
+          "en-US": 12
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Ensaladas"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-costillar-con-salsa-barbacoa",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Costillar con Salsa Barbacoa"
+        },
+        "description": {
+          "en-US": "Costillar jugoso bañado en salsa barbacoa casera."
+        },
+        "price": {
+          "en-US": 18.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": true
+        },
+        "categoryList": {
+          "en-US": [
+            "Carnes y Brasas"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-chuleton-de-ternera-500g",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Chuletón de Ternera 500g"
+        },
+        "description": {
+          "en-US": "Chuletón de vaca a la brasa."
+        },
+        "price": {
+          "en-US": 27
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Carnes y Brasas"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-entrecot-de-ternera",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Entrecot de Ternera"
+        },
+        "description": {
+          "en-US": "Entrecot a la parrilla con guarnición."
+        },
+        "price": {
+          "en-US": 22
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Carnes y Brasas"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-codillo-confitado",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Codillo Confitado"
+        },
+        "description": {
+          "en-US": "Codillo tierno al horno con guarnición."
+        },
+        "price": {
+          "en-US": 12.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Carnes y Brasas"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-churrasco-de-vacuno",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Churrasco de Vacuno"
+        },
+        "description": {
+          "en-US": "Churrasco de vacuno a la parrilla."
+        },
+        "price": {
+          "en-US": 10.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Carnes y Brasas"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-muslo-de-pollo",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Muslo de Pollo"
+        },
+        "description": {
+          "en-US": "Muslo de pollo al horno o plancha."
+        },
+        "price": {
+          "en-US": 8
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Carnes y Brasas"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-cachopo",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Cachopo"
+        },
+        "description": {
+          "en-US": "Clásico cachopo relleno de jamón y queso."
+        },
+        "price": {
+          "en-US": 19
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Carnes y Brasas"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-chusmarro",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Chusmarro"
+        },
+        "description": {
+          "en-US": "Carne de cerdo a la brasa estilo tradicional."
+        },
+        "price": {
+          "en-US": 9.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Carnes y Brasas"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-chuleta-pierna-de-cerdo",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Chuleta Pierna de Cerdo"
+        },
+        "description": {
+          "en-US": "Chuleta de cerdo a la brasa."
+        },
+        "price": {
+          "en-US": 12.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Carnes y Brasas"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-pintxo-cerdo",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Pintxo Cerdo"
+        },
+        "description": {
+          "en-US": "Brocheta de cerdo a la brasa."
+        },
+        "price": {
+          "en-US": 3.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Carnes y Brasas"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-rodaja-de-salmon-salvaje-a-la-brasa",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Rodaja de Salmón Salvaje a la Brasa"
+        },
+        "description": {
+          "en-US": "Salmón salvaje cocinado a la brasa."
+        },
+        "price": {
+          "en-US": 13
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Pescados"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-lubina-abierta-a-la-brasa--plancha",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Lubina Abierta a la Brasa / Plancha"
+        },
+        "description": {
+          "en-US": "Lubina fresca a la brasa o plancha."
+        },
+        "price": {
+          "en-US": 8.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Pescados"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-emperador-a-la-brasa--plancha",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Emperador a la Brasa / Plancha"
+        },
+        "description": {
+          "en-US": "Filete de emperador a la brasa o plancha."
+        },
+        "price": {
+          "en-US": 12.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Pescados"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-sepionet-a-la-brasa--plancha",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Sepionet a la Brasa / Plancha"
+        },
+        "description": {
+          "en-US": "Sepionet tierno a la brasa."
+        },
+        "price": {
+          "en-US": 16
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Pescados"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-bravas",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Bravas"
+        },
+        "description": {
+          "en-US": "Clásicas patatas bravas con salsa."
+        },
+        "price": {
+          "en-US": 7.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": true
+        },
+        "categoryList": {
+          "en-US": [
+            "Para picar"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-beicon-cheese",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Beicon Cheese"
+        },
+        "description": {
+          "en-US": "Tapa de bacon con queso fundido."
+        },
+        "price": {
+          "en-US": 8.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Para picar"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-calamares-andaluza",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Calamares Andaluza"
+        },
+        "description": {
+          "en-US": "Calamares fritos estilo andaluz."
+        },
+        "price": {
+          "en-US": 8.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": true
+        },
+        "categoryList": {
+          "en-US": [
+            "Para picar"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-lagrimas-pollo",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Lágrimas Pollo"
+        },
+        "description": {
+          "en-US": "Crujientes tiras de pollo empanado."
+        },
+        "price": {
+          "en-US": 9
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Para picar"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-alitas-barbacoa",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Alitas Barbacoa"
+        },
+        "description": {
+          "en-US": "Alitas de pollo con salsa barbacoa."
+        },
+        "price": {
+          "en-US": 9
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": true
+        },
+        "categoryList": {
+          "en-US": [
+            "Para picar"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-queso-frito",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Queso Frito"
+        },
+        "description": {
+          "en-US": "Queso rebozado y frito con salsa."
+        },
+        "price": {
+          "en-US": 9
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Para picar"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-gambas-a-la-plancha",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Gambas a la Plancha"
+        },
+        "description": {
+          "en-US": "Gambas frescas a la plancha."
+        },
+        "price": {
+          "en-US": 12
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Para picar"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-setas-jamon",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Setas Jamón"
+        },
+        "description": {
+          "en-US": "Salteado de setas con jamón."
+        },
+        "price": {
+          "en-US": 9
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Para picar"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-setas-salmon-y-feta",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Setas Salmón y Feta"
+        },
+        "description": {
+          "en-US": "Setas con salmón y queso feta."
+        },
+        "price": {
+          "en-US": 11
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Para picar"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-rabo",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Rabo"
+        },
+        "description": {
+          "en-US": "Rabo de toro guisado estilo tradicional."
+        },
+        "price": {
+          "en-US": 9
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Para picar"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-arroz-a-banda",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Arroz a banda"
+        },
+        "description": {
+          "en-US": "Arroz al estilo mediterráneo con pescado."
+        },
+        "price": {
+          "en-US": 13
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Arroces"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-paella-de-pollo-y-verdura",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Paella de pollo y verdura"
+        },
+        "description": {
+          "en-US": "Paella con pollo y verduras frescas."
+        },
+        "price": {
+          "en-US": 12
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Arroces"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-arroz-de-secreto-al-px",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Arroz de secreto al PX"
+        },
+        "description": {
+          "en-US": "Arroz con secreto ibérico al Pedro Ximénez."
+        },
+        "price": {
+          "en-US": 13
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Arroces"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-arroz-negro",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Arroz negro"
+        },
+        "description": {
+          "en-US": "Arroz negro con sepia y alioli."
+        },
+        "price": {
+          "en-US": 13
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Arroces"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-tarta-de-tres-chocolates",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Tarta de tres chocolates"
+        },
+        "description": {
+          "en-US": "Tarta casera con tres chocolates."
+        },
+        "price": {
+          "en-US": 5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": true
+        },
+        "categoryList": {
+          "en-US": [
+            "Postres caseros"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-torrija-con-pan-brioche-casero-con-helado",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Torrija con pan brioche casero con helado"
+        },
+        "description": {
+          "en-US": "Torrija de brioche acompañada de helado."
+        },
+        "price": {
+          "en-US": 6.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Postres caseros"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-tarta-de-queso",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Tarta de queso"
+        },
+        "description": {
+          "en-US": "Tarta cremosa de queso al horno."
+        },
+        "price": {
+          "en-US": 5.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": true
+        },
+        "categoryList": {
+          "en-US": [
+            "Postres caseros"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-tarta-de-oreo",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Tarta de Oreo"
+        },
+        "description": {
+          "en-US": "Tarta casera de galleta Oreo."
+        },
+        "price": {
+          "en-US": 5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Postres caseros"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-pan-de-calatrava-con-almendras",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Pan de Calatrava con almendras"
+        },
+        "description": {
+          "en-US": "Postre típico con almendras."
+        },
+        "price": {
+          "en-US": 4.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Postres caseros"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-crema-catalana",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Crema catalana"
+        },
+        "description": {
+          "en-US": "Clásico postre de crema catalana caramelizada."
+        },
+        "price": {
+          "en-US": 5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Postres caseros"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-crepe-con-nutella--mermelada",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Crepe con Nutella / mermelada"
+        },
+        "description": {
+          "en-US": "Crepe casero con Nutella o mermelada."
+        },
+        "price": {
+          "en-US": 4
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Postres caseros"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-brownie-con-helado",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Brownie con helado"
+        },
+        "description": {
+          "en-US": "Brownie de chocolate con helado."
+        },
+        "price": {
+          "en-US": 4.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": true
+        },
+        "categoryList": {
+          "en-US": [
+            "Postres caseros"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-coulant-opcion-sin-gluten",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Coulant (opción sin gluten)"
+        },
+        "description": {
+          "en-US": "Bizcocho de chocolate con corazón fundido."
+        },
+        "price": {
+          "en-US": 4.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Postres caseros"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-tarta-de-whisky-helada-y-bautizada",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Tarta de whisky helada y bautizada"
+        },
+        "description": {
+          "en-US": "Postre helado de whisky."
+        },
+        "price": {
+          "en-US": 3.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Postres caseros"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-contesa",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Contesa"
+        },
+        "description": {
+          "en-US": "Clásica tarta helada Contesa."
+        },
+        "price": {
+          "en-US": 3.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Postres caseros"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-fruta-de-temporada",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Fruta de temporada"
+        },
+        "description": {
+          "en-US": "Fruta fresca según temporada."
+        },
+        "price": {
+          "en-US": 3.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Postres caseros"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-tiramisu-del-eden",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Tiramisú del Edén"
+        },
+        "description": {
+          "en-US": "Tiramisú casero especialidad de la casa."
+        },
+        "price": {
+          "en-US": 6.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": true
+        },
+        "categoryList": {
+          "en-US": [
+            "Postres caseros"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-la-mar-de-areasan-verdejo-y-sauvignon",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "La Mar de Areasan (Verdejo & Sauvignon)"
+        },
+        "description": {
+          "en-US": "Blanco"
+        },
+        "price": {
+          "en-US": 13
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Vinos"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-abulaga-afrutado",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Abulaga (Afrutado)"
+        },
+        "description": {
+          "en-US": "Blanco"
+        },
+        "price": {
+          "en-US": 15
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Vinos"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-señorio-de-valdeganga-verdejo",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Señorío de Valdeganga (Verdejo)"
+        },
+        "description": {
+          "en-US": "Blanco"
+        },
+        "price": {
+          "en-US": 10
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Vinos"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-jp-chenet-ice-edition-espumoso",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "JP. Chenet Ice Edition (Espumoso)"
+        },
+        "description": {
+          "en-US": "Espumoso blanco"
+        },
+        "price": {
+          "en-US": 19.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Vinos"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-el-marido-de-mi-amiga-semidulce",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "El Marido de Mi Amiga (Semidulce)"
+        },
+        "description": {
+          "en-US": "Blanco semidulce"
+        },
+        "price": {
+          "en-US": 18
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Vinos"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-el-cortez-xo-tempranillo-y-garnacha",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "El Cortez XO (Tempranillo & Garnacha)"
+        },
+        "description": {
+          "en-US": "Tinto"
+        },
+        "price": {
+          "en-US": 15
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Vinos"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-mainetes-crianza-12-meses-monastrel",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Mainetes Crianza 12 Meses (Monastrel)"
+        },
+        "description": {
+          "en-US": "Tinto"
+        },
+        "price": {
+          "en-US": 22
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Vinos"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-lomo-alto-tempranillo-cabernet-sauvignon-petit-verdot",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Lomo Alto (Tempranillo, Cabernet Sauvignon, Petit Verdot)"
+        },
+        "description": {
+          "en-US": "Tinto"
+        },
+        "price": {
+          "en-US": 13
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Vinos"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-montecillo-tempranillo-ribera-del-duero",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Montecillo (Tempranillo Ribera del Duero)"
+        },
+        "description": {
+          "en-US": "Tinto"
+        },
+        "price": {
+          "en-US": 22
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Vinos"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-beronia-tempranillo-rioja",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Beronia (Tempranillo Rioja)"
+        },
+        "description": {
+          "en-US": "Tinto"
+        },
+        "price": {
+          "en-US": 18
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Vinos"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-el-rose-de-aresan-cabernet-franc-y-garnacha",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "El Rosé de Aresan (Cabernet Franc & Garnacha)"
+        },
+        "description": {
+          "en-US": "Rosado"
+        },
+        "price": {
+          "en-US": 12
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Vinos"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "item-jp-chenet-rose-espumoso",
+        "contentType": {
+          "sys": {
+            "id": "item"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "JP. Chenet Rosé (Espumoso)"
+        },
+        "description": {
+          "en-US": "Espumoso rosado"
+        },
+        "price": {
+          "en-US": 19.5
+        },
+        "spicy": {
+          "en-US": false
+        },
+        "popular": {
+          "en-US": false
+        },
+        "categoryList": {
+          "en-US": [
+            "Vinos"
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "section-ensaladas",
+        "contentType": {
+          "sys": {
+            "id": "section"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Ensaladas"
+        },
+        "image": {
+          "en-US": ""
+        },
+        "imageAlt": {
+          "en-US": ""
+        },
+        "items": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-ensalada-de-rulo-de-cabra"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-ensalada-de-pollo"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-ensalada-de-quinoa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "section-carnes-y-brasas",
+        "contentType": {
+          "sys": {
+            "id": "section"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Carnes y Brasas"
+        },
+        "image": {
+          "en-US": ""
+        },
+        "imageAlt": {
+          "en-US": ""
+        },
+        "items": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-costillar-con-salsa-barbacoa"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-chuleton-de-ternera-500g"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-entrecot-de-ternera"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-codillo-confitado"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-churrasco-de-vacuno"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-muslo-de-pollo"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-cachopo"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-chusmarro"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-chuleta-pierna-de-cerdo"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-pintxo-cerdo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "section-pescados",
+        "contentType": {
+          "sys": {
+            "id": "section"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Pescados"
+        },
+        "image": {
+          "en-US": ""
+        },
+        "imageAlt": {
+          "en-US": ""
+        },
+        "items": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-rodaja-de-salmon-salvaje-a-la-brasa"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-lubina-abierta-a-la-brasa--plancha"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-emperador-a-la-brasa--plancha"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-sepionet-a-la-brasa--plancha"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "section-para-picar",
+        "contentType": {
+          "sys": {
+            "id": "section"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Para picar"
+        },
+        "image": {
+          "en-US": ""
+        },
+        "imageAlt": {
+          "en-US": ""
+        },
+        "items": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-bravas"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-beicon-cheese"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-calamares-andaluza"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-lagrimas-pollo"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-alitas-barbacoa"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-queso-frito"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-gambas-a-la-plancha"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-setas-jamon"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-setas-salmon-y-feta"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-rabo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "section-arroces",
+        "contentType": {
+          "sys": {
+            "id": "section"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Arroces"
+        },
+        "image": {
+          "en-US": ""
+        },
+        "imageAlt": {
+          "en-US": ""
+        },
+        "items": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-arroz-a-banda"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-paella-de-pollo-y-verdura"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-arroz-de-secreto-al-px"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-arroz-negro"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "section-postres-caseros",
+        "contentType": {
+          "sys": {
+            "id": "section"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Postres caseros"
+        },
+        "image": {
+          "en-US": ""
+        },
+        "imageAlt": {
+          "en-US": ""
+        },
+        "items": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-tarta-de-tres-chocolates"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-torrija-con-pan-brioche-casero-con-helado"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-tarta-de-queso"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-tarta-de-oreo"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-pan-de-calatrava-con-almendras"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-crema-catalana"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-crepe-con-nutella--mermelada"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-brownie-con-helado"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-coulant-opcion-sin-gluten"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-tarta-de-whisky-helada-y-bautizada"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-contesa"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-fruta-de-temporada"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-tiramisu-del-eden"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "section-vinos",
+        "contentType": {
+          "sys": {
+            "id": "section"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Vinos"
+        },
+        "image": {
+          "en-US": ""
+        },
+        "imageAlt": {
+          "en-US": ""
+        },
+        "items": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-la-mar-de-areasan-verdejo-y-sauvignon"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-abulaga-afrutado"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-señorio-de-valdeganga-verdejo"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-jp-chenet-ice-edition-espumoso"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-el-marido-de-mi-amiga-semidulce"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-el-cortez-xo-tempranillo-y-garnacha"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-mainetes-crianza-12-meses-monastrel"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-lomo-alto-tempranillo-cabernet-sauvignon-petit-verdot"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-montecillo-tempranillo-ribera-del-duero"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-beronia-tempranillo-rioja"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-el-rose-de-aresan-cabernet-franc-y-garnacha"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "item-jp-chenet-rose-espumoso"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "menu-carta-heden",
+        "contentType": {
+          "sys": {
+            "id": "menu"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Carta Hedén"
+        },
+        "sections": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "section-ensaladas"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "section-carnes-y-brasas"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "section-pescados"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "section-para-picar"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "section-arroces"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "section-postres-caseros"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "section-vinos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

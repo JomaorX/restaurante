@@ -1,11 +1,11 @@
 {
-  "name": "tokio-ramen",
+  "name": "heden-restaurant",
   "private": true,
-  "description": "Tokio Ramen Official Website",
+  "description": "Hedén Official Website",
   "version": "0.1.0",
   "author": "demivlkv",
   "dependencies": {
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.6.1",
     "framer-motion": "^7.6.7",
     "gatsby": "^5.14.6",
     "gatsby-plugin-anchor-links": "^1.2.1",

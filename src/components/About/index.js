@@ -14,7 +14,7 @@ const About = () => (
           transition={{ duration: 1 }}
           viewport={{ once: true, delay: 0.5 }}
         >
-          Our History
+          Historia
         </motion.h2>
         <motion.div
           initial={{ opacity: 0 }}
@@ -24,15 +24,16 @@ const About = () => (
         >
           <div className="max-w-screen-lg w-full grid px-4 sm:grid-cols-2 gap-8 mx-auto text-white">
             <div className="flex justify-center items-center">
-              <StaticImage src="../../images/about/our-history.png" alt="The owners of Tokio Ramen" className="rounded drop-shadow-lg" />
+              <StaticImage src="../../images/about/bar.jpg" alt="The owners of Hedén" className="rounded drop-shadow-lg" />
             </div>
             <div>
               <p className="pb-2">
-                After immigrating to the United States from Japan in the 1990s, Chef Hiro owned and operated multiple restaurants over a 20-year period. Tokio Ramen was a dream project that came to fruition in which Chef Hiro wanted to offer a Japanese culinary staple known as ramen that is gaining attention with the word quickly spreading. Ramen is, put simply, Japanese style noodles bathed in broth with complementing toppings.
-              </p>
-              <p className="py-2">
-                The menu is intentionally scaled down so that focus is directed at delivering the freshest, best quality ramen. This is the place you can come to and experience an impressionable taste of Japan without a plane ticket. Come join us for a delicious bowl of ramen with a side of steaming gyoza and a refreshing cold Japanese beverage. This is the real no-frills deal with no fusion element to it, because we prefer authenticity like you do.
-              </p>
+  Hedén nació de una idea sencilla: crear un espacio donde la comida y el ambiente se sintieran como en casa. Sin grandes artificios, sin fusiones innecesarias. Solo platos honestos, ingredientes frescos y una carta pensada para compartir momentos.
+</p>
+<p className="py-2">
+  Cada rincón del local, cada receta y cada detalle están pensados para que vivas una experiencia auténtica. Aquí se cocina con cariño, se sirve con respeto y se recibe con alegría. Hedén es ese sitio donde puedes venir a desconectar, brindar, y saborear lo que realmente importa.
+</p>
+
             </div>
           </div>
 
@@ -40,17 +41,12 @@ const About = () => (
             className="max-w-screen-md w-full mx-auto text-white px-4"
           >
             <p className="py-4">
-              We are firm believers in acknowledging and giving credit where it's due. With that, we'd like to let our utmost gratitude be known to those who've helped us along the way:
-            </p>
-            <p className="text-center">
-              City of Boynton Beach (with distinguished praise for the CRA!)
-            </p>
-            <p className="text-center">
-              Catoe & Son Plumbing | Flameguard Fire Equipment | LifeSafety Management
-            </p>
-            <p className="text-center">
-              Chip Brown of AMJ  |  Challenger Operations Inc
-            </p>
+  Queremos agradecer a quienes han estado ahí desde el principio. A los que ayudaron a levantar este proyecto con sus manos, sus ideas y su apoyo constante. A los vecinos, amigos y clientes que han creído en nosotros desde el primer día.
+</p>
+<p className="text-center">
+  Gracias por formar parte de Hedén. Este lugar también es vuestro.
+</p>
+
           </div>
         </motion.div>
 

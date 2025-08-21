@@ -17,8 +17,8 @@ const Footer = () => (
     >
       <div>
         <StaticImage
-          src="../../images/footer/logo.png"
-          alt="Tokio Ramen Mini Logo"
+          src="../../images/footer/logoEdenMini.png"
+          alt="Heden Mini Logo"
           placeholder="none"
           className="w-[40px]"
         />
@@ -26,19 +26,19 @@ const Footer = () => (
 
       <div className="text-xs md:text-base font-normal tracking-wider">
         <p>
-          © {new Date().getFullYear()} &middot; T
-          <span className="text-[#fe4039]">o</span>kio Ramen. All rights reserved.
+          © {new Date().getFullYear()} &middot; H
+          <span className="text-[#84cc16]">e</span>dén. All rights reserved.
         </p>
       </div>
 
       <div className="flex justify-center items-center">
         <Link to="https://www.instagram.com/tokioramen/" target="_blank">
-          <button className="h-[30px] flex items-center mr-1 md:mr-2 text-white hover:text-[#fe4039]">
+          <button className="h-[30px] flex items-center mr-1 md:mr-2 text-white hover:text-[#84cc16]">
             <span className="w-[20px] h-[20px]"><Instagram /></span>
           </button>
         </Link>
         <Link to="https://www.facebook.com/tokioramenbb" target="_blank">
-          <button className="h-[30px] flex items-center ml-1 md:ml-2 text-white hover:text-[#fe4039]">
+          <button className="h-[30px] flex items-center ml-1 md:ml-2 text-white hover:text-[#84cc16]">
             <span className="w-[19px] h-[19px]"><Facebook /></span>
           </button>
         </Link>

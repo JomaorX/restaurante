@@ -38,7 +38,7 @@ const MenuItem = ({ name, description, price, spicy, popular }) => {
         </h4>
         <p>{description}</p>
       </div>
-      <p className="text-red-700 text-lg md:text-xl font-medium">{price}</p>
+      <p className="text-green-700 text-lg md:text-xl font-medium">{price}</p>
     </motion.div>
   );
 };

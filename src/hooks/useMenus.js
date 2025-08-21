@@ -12,11 +12,12 @@ export default () => {
                         imageAlt
                         items {
                             name
-                            description
+                            description {
+                                description
+                            }
                             price
                             spicy
                             popular
-                            categoryList
                         }
                         image {
                             publicUrl
