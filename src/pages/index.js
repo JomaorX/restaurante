@@ -4,7 +4,7 @@ import * as React from 'react';
 import Layout from '../components/Layout';
 
 const IndexPage = () => (
-  <Layout pageTitle="Boynton Beach, FL">
+  <Layout pageTitle="Circunvalación 115, AB">
     <div className="w-full h-screen">
       <div className="max-w-screen-md mx-auto px-8 flex flex-col justify-center h-full">
           <h1 className="mb-8 text-lg md:text-2xl font-normal tracking-wider uppercase">A veces, solo necesitas una buena tapa y una copa de vino.</h1>

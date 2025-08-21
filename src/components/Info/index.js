@@ -112,12 +112,12 @@ const Info = () => (
           </div>
         
           <div className="w-full mx-auto mt-10 flex justify-center items-center">
-            <Link to="https://www.instagram.com/tokioramen/" target="_blank">
+            <Link to="#" target="_blank">
               <button className="mx-4 w-[50px] h-[50px] inline-flex justify-center items-center rounded-full bg-[#84cc16] hover:bg-white text-white hover:text-[#84cc16]">
                 <span className="w-[30px] h-[30px]"><Instagram /></span>
               </button>
             </Link>
-            <Link to="https://www.facebook.com/tokioramenbb" target="_blank">
+            <Link to="#" target="_blank">
               <button className="mx-4 w-[50px] h-[50px] inline-flex justify-center items-center rounded-full bg-[#84cc16] hover:bg-white text-white hover:text-[#84cc16]">
               <span className="w-[30px] h-[30px]"><Facebook /></span>
               </button>

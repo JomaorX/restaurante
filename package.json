@@ -41,10 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/demivlkv/tokio-ramen"
+    "url": "https://github.com/JomaorX/restaurante"
   },
   "bugs": {
-    "url": "https://github.com/demivlkv/tokio-ramen/issues"
+    "url": "https://github.com/JomaorX/restaurante/issues"
   },
   "resolutions": {
     "react": "^18.1.0",

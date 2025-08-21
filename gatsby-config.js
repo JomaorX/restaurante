@@ -5,9 +5,9 @@ require("dotenv").config({
 module.exports = {
   siteMetadata: {
     title: `Hedén`,
-    description: `Hedén Ramen Official Website | Boynton Beach, FL`,
-    author: `demivlkv`,
-    siteUrl: `https://tokio-ramen.netlify.app/`,
+    description: `Hedén Official Website | Circunvalacion, 115`,
+    author: `jomaorx`,
+    siteUrl: `https://heden.onrender.com/`,
   },
   plugins: [
     `gatsby-plugin-anchor-links`,
