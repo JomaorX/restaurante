@@ -2,7 +2,7 @@
 ![Hedén logo](/../main/src/images/readme/logo.png)
 Official website for Hedén, a tapas bar and restaurant located in Albacete, Spain. This website is built with [GatsbyJS](https://www.gatsbyjs.com/) to prioritize performance and [Contenful](https://www.contentful.com/) for accessible data via GraphQL.
 
-<p align="center">:sparkles: <a href="https://heden.onrender.com/">Visit deployed application here</a> :sparkles:</p>
+<p align="center">:sparkles: <a href="https://edenrestaurante.es/">Visit deployed application here</a> :sparkles:</p>
 
 ![screenshot.png](/../main/src/images/readme/screenshot.png)
 
